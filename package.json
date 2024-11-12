@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "app": "^0.1.0",
+    "bootstrap": "^5.3.3",
+    "create-react": "^0.0.0",
+    "react-router-dom": "^6.28.0"
+  }
+}
